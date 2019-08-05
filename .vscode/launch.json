@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManejoInterfaces",
+            "request": "launch",
+            "mainClass": "main.interfaces.ManejoInterfaces"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PasoPorValor",
+            "request": "launch",
+            "mainClass": "com.PasoPorValor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
